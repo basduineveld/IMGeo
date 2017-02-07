@@ -13,7 +13,7 @@
 					<Title>Bordes</Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>plus-typeGebouwInstallatie</ogc:PropertyName>
+							<ogc:PropertyName>plus-type</ogc:PropertyName>
 							<ogc:Literal>bordes</ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
@@ -34,7 +34,7 @@
 					<Title>Luifel</Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>plus-typeGebouwInstallatie</ogc:PropertyName>
+							<ogc:PropertyName>plus-type</ogc:PropertyName>
 							<ogc:Literal>luifel</ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
@@ -55,7 +55,7 @@
 					<Title>Toegangstrap</Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>plus-typeGebouwInstallatie</ogc:PropertyName>
+							<ogc:PropertyName>plus-type</ogc:PropertyName>
 							<ogc:Literal>toegangstrap</ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>

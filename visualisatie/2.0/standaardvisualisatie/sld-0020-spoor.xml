@@ -18,7 +18,7 @@
                                 <ogc:Literal>niet-bgt</ogc:Literal>
                             </ogc:PropertyIsEqualTo>
                             <ogc:PropertyIsEqualTo>
-                                <ogc:PropertyName>plus-functieSpoor</ogc:PropertyName>
+                                <ogc:PropertyName>plus-functie</ogc:PropertyName>
                                 <ogc:Literal>(haven)kraan</ogc:Literal>
                             </ogc:PropertyIsEqualTo>
                         </ogc:And>
