@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>OndersteunendWaterdeel</Name>
 		<UserStyle>
-			<Title>Visualisatie van de ondersteunende waterdelen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Ondersteunend Waterdeel</Abstract>
+			<Title>Visualisatie van de plantopografie van de ondersteunende waterdelen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Ondersteunend Waterdeel</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0031-01-00-01</Name>

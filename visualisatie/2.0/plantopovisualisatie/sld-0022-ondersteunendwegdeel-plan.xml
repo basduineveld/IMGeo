@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>OndersteunendWegdeel</Name>
 		<UserStyle>
-			<Title>Visualisatie van de ondersteunende wegdelen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Ondersteunend Wegdeel</Abstract>
+			<Title>Visualisatie van de plantopografie van de ondersteunende wegdelen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Ondersteunend Wegdeel</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0022-01-00-01</Name>

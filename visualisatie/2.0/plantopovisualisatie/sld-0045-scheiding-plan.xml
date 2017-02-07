@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Scheiding</Name>
 		<UserStyle>
-			<Title>Visualisatie van de scheidingen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Scheiding</Abstract>
+			<Title>Visualisatie van de plantopografie van de scheidingen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Scheiding</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0045-01-00-01</Name>

@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Put</Name>
 		<UserStyle>
-			<Title>Visualisatie van de putten</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Put</Abstract>
+			<Title>Visualisatie van de plantopografie van de putten</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Put</Abstract>
 				<FeatureTypeStyle>
 				<Rule>
 					<Name>0106-01-00-01</Name>

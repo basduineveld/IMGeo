@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Bak</Name>
 		<UserStyle>
-			<Title>Visualisatie van de bakken</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Bak</Abstract>
+			<Title>Visualisatie van de plantopografie van de bakken</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Bak</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0100-01-00-01</Name>

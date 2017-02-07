@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Spoor</Name>
 		<UserStyle>
-			<Title>Visualisatie van de sporen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Spoor</Abstract>
+			<Title>Visualisatie van de plantopografie van de sporen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Spoor</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0020-04-00-01</Name>

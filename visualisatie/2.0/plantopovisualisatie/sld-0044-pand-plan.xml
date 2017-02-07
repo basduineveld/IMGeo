@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Pand</Name>
 		<UserStyle>
-			<Title>Visualisatie van de panden</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Pand</Abstract>
+			<Title>Visualisatie van de plantopografie van de panden</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Pand</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0044-01-00-01</Name>

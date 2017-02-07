@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Functioneel gebied</Name>
 		<UserStyle>
-			<Title>Visualisatie van functionele gebieden</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Functioneel gebied</Abstract>
+			<Title>Visualisatie van de plantopografie van functionele gebieden</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Functioneel gebied</Abstract>
 			<FeatureTypeStyle>
 			<Rule>
 					<Name>0060-01-00-01</Name>

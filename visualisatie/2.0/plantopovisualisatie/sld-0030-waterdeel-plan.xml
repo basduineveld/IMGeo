@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Waterdeel</Name>
 		<UserStyle>
-			<Title>Visualisatie van de waterdelen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Waterdeel</Abstract>
+			<Title>Visualisatie van de plantopografie van de waterdelen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Waterdeel</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0030-01-00-01</Name>

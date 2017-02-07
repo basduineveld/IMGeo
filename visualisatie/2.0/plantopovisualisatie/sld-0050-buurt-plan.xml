@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Buurt</Name>
 		<UserStyle>
-			<Title>Visualisatie van de buurten</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Buurt</Abstract>
+			<Title>Visualisatie van de plantopografie van de buurten</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Buurt</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0050-01-00-01</Name>

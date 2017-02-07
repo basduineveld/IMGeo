@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Kunstwerkdeel</Name>
 		<UserStyle>
-			<Title>Visualisatie van de kunstwerkdelen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Kunstwerkdeel</Abstract>
+			<Title>Visualisatie van de plantopografie van de kunstwerkdelen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Kunstwerkdeel</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0041-07-00-01</Name>

@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>OverigBouwwerk</Name>
 		<UserStyle>
-			<Title>Visualisatie van de overige bouwwerken</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Overig Bouwwerk</Abstract>
+			<Title>Visualisatie van de plantopografie van de overige bouwwerken</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Overig Bouwwerk</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0043-01-00-01</Name>

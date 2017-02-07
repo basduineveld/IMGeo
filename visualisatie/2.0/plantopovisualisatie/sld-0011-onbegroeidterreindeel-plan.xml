@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Onbegroeid terreindeel</Name>
 		<UserStyle>
-			<Title>Visualisatie van de onbegroeide terreindelen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Onbegroeid terreindeel</Abstract>
+			<Title>Visualisatie van de plantopografie van de onbegroeide terreindelen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Onbegroeid terreindeel</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0011-01-00-01</Name>

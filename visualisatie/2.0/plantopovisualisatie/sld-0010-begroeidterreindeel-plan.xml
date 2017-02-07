@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Begroeid terreindeel</Name>
 		<UserStyle>
-			<Title>Visualisatie van de begroeide terreindelen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Begroeid Terreindeel</Abstract>
+			<Title>Visualisatie van de plantopografie van de begroeide terreindelen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Begroeid Terreindeel</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0010-01-00-01</Name>

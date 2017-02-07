@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Mast</Name>
 		<UserStyle>
-			<Title>Visualisatie van de masten</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Mast</Abstract>
+			<Title>Visualisatie van de plantopografie van de masten</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Mast</Abstract>
 				<FeatureTypeStyle>
 				<Rule>
 					<Name>0104-01-00-01</Name>

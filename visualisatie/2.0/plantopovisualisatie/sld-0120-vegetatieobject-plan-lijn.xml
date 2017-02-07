@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>VegetatieObject</Name>
 		<UserStyle>
-			<Title>Visualisatie van de vegetatie-objecten</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype VegetatieObject</Abstract>
+			<Title>Visualisatie van de plantopografie van de vegetatie-objecten</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype VegetatieObject</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0120-02-00-01</Name>

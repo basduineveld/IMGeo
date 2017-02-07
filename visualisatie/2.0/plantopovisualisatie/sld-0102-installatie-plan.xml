@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Installatie</Name>
 		<UserStyle>
-			<Title>Visualisatie van de installaties</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Installatie</Abstract>
+			<Title>Visualisatie van de plantopografie van de installaties</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Installatie</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0102-01-00-01</Name>

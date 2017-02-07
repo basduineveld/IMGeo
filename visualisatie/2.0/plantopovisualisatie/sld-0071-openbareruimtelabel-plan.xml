@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>OpenbareRuimteLabel</Name>
 		<UserStyle>
-			<Title>Visualisatie van de namen in de openbare ruimte</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype OpenbareRuimteLabel</Abstract>
+			<Title>Visualisatie van de plantopografie van de namen in de openbare ruimte</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype OpenbareRuimteLabel</Abstract>
 			<FeatureTypeStyle>
 			<Rule>
 					<Name>0071-01-00-01</Name>

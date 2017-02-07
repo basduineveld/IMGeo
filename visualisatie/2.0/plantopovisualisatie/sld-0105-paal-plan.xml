@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Paal</Name>
 		<UserStyle>
-			<Title>Visualisatie van de palen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Paal</Abstract>
+			<Title>Visualisatie van de plantopografie van de palen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Paal</Abstract>
 				<FeatureTypeStyle>
 				<Rule>
 					<Name>0105-01-00-01</Name>

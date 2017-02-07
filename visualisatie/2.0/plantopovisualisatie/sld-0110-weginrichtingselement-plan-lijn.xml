@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Weginrichtingselement</Name>
 		<UserStyle>
-			<Title>Visualisatie van de weginrichtingselementen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype weginrichtingselement</Abstract>
+			<Title>Visualisatie van de plantopografie van de weginrichtingselementen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype weginrichtingselement</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0110-01-00-01</Name>

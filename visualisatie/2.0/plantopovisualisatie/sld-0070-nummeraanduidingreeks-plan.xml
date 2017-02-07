@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Nummeraanduidingsreeks</Name>
 		<UserStyle>
-			<Title>Visualisatie van de nummeraanduidingsreeks</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Nummeraanduidingsreeks</Abstract>
+			<Title>Visualisatie van de plantopografie van de nummeraanduidingsreeks</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Nummeraanduidingsreeks</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0070-01-00-01</Name>

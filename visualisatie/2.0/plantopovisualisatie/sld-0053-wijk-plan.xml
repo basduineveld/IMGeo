@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Wijk</Name>
 		<UserStyle>
-			<Title>Visualisatie van de wijken</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Wijk</Abstract>
+			<Title>Visualisatie van de plantopografie van de wijken</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Wijk</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0052-01-00-01</Name>

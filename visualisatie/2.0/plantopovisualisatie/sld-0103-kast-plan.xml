@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Kast</Name>
 		<UserStyle>
-			<Title>Visualisatie van de kasten</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Kast</Abstract>
+			<Title>Visualisatie van de plantopografie van de kasten</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Kast</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0103-01-00-01</Name>

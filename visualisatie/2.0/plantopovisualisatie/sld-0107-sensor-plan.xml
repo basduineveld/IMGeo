@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Sensor</Name>
 		<UserStyle>
-			<Title>Visualisatie van de sensoren</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Sensor</Abstract>
+			<Title>Visualisatie van de plantopografie van de sensoren</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Sensor</Abstract>
 				<FeatureTypeStyle>
 				<Rule>
 					<Name>0107-01-00-01</Name>

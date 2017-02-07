@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Wegdeel</Name>
 		<UserStyle>
-			<Title>Visualisatie van de wegdelen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Wegdeel</Abstract>
+			<Title>Visualisatie van de plantopografie van de wegdelen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Wegdeel</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0021-01-00-01</Name>

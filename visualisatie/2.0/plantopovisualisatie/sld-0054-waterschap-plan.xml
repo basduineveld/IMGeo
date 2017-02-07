@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Waterschap</Name>
 		<UserStyle>
-			<Title>Visualisatie van de waterschappen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Waterschap</Abstract>
+			<Title>Visualisatie van de plantopografie van de waterschappen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Waterschap</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0053-01-00-01</Name>

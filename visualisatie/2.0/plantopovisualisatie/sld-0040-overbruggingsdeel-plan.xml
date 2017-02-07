@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Overbruggingsdeel</Name>
 		<UserStyle>
-			<Title>Visualisatie van de overbruggingsdelen</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Overbruggingsdeel</Abstract>
+			<Title>Visualisatie van de plantopografie van de overbruggingsdelen</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Overbruggingsdeel</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0040-01-00-01</Name>

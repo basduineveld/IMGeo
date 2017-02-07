@@ -5,8 +5,8 @@
 	<NamedLayer>
 		<Name>Ongeclassificeerd</Name>
 		<UserStyle>
-			<Title>Visualisatie van de ongeclassificeerde objecten</Title>
-			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van het objecttype Ongeclassificeerd</Abstract>
+			<Title>Visualisatie van de plantopografie van de ongeclassificeerde objecten</Title>
+			<Abstract>Deze stylesheet bevat de regels voor de visualisatie van de plantopografie van het objecttype Ongeclassificeerd</Abstract>
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0900-00-01-01</Name>
