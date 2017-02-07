@@ -156,10 +156,9 @@
 					<Name>0102-00-00-01</Name>
 					<Title>Overige installatie</Title>
 					<ogc:Filter>
-						<ogc:PropertyIsEqualTo>
+						<ogc:PropertyIsNull>
 							<ogc:PropertyName>plus-type</ogc:PropertyName>
-							<ogc:Literal>geenWaarde</ogc:Literal>
-						</ogc:PropertyIsEqualTo>
+						</ogc:PropertyIsNull>
 					</ogc:Filter>
 					<MaxScaleDenominator>501</MaxScaleDenominator>
 					<PointSymbolizer>
@@ -187,10 +186,9 @@
 					<Name>0102-00-00-01</Name>
 					<Title>Overige installatie</Title>
 					<ogc:Filter>
-						<ogc:PropertyIsEqualTo>
+						<ogc:PropertyIsNull>
 							<ogc:PropertyName>plus-type</ogc:PropertyName>
-							<ogc:Literal>geenWaarde</ogc:Literal>
-						</ogc:PropertyIsEqualTo>
+						</ogc:PropertyIsNull>
 					</ogc:Filter>
 					<MinScaleDenominator>502</MinScaleDenominator>
 					<MaxScaleDenominator>1251</MaxScaleDenominator>

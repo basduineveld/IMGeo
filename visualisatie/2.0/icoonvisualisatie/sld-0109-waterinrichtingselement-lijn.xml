@@ -168,10 +168,9 @@
 					<Name>0109-06-01-01</Name>
 					<Title>Overig waterinrichtingselement</Title>
 					<ogc:Filter>
-						<ogc:PropertyIsEqualTo>
+						<ogc:PropertyIsNull>
 							<ogc:PropertyName>plus-type</ogc:PropertyName>
-							<ogc:Literal>geenWaarde</ogc:Literal>
-						</ogc:PropertyIsEqualTo>
+						</ogc:PropertyIsNull>
 					</ogc:Filter>
 					<MaxScaleDenominator>501</MaxScaleDenominator>
 					<LineSymbolizer>
@@ -203,10 +202,9 @@
 					<Name>0109-06-02-01</Name>
 					<Title>Overig waterinrichtingselement</Title>
 					<ogc:Filter>
-						<ogc:PropertyIsEqualTo>
+						<ogc:PropertyIsNull>
 							<ogc:PropertyName>plus-type</ogc:PropertyName>
-							<ogc:Literal>geenWaarde</ogc:Literal>
-						</ogc:PropertyIsEqualTo>
+						</ogc:PropertyIsNull>
 					</ogc:Filter>
 					<MinScaleDenominator>502</MinScaleDenominator>
 					<MaxScaleDenominator>2501</MaxScaleDenominator>
