@@ -21,7 +21,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="abri.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/abri.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -51,7 +51,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="bank.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/bank.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -81,7 +81,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="betaalautomaat.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/betaalautomaat.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -111,7 +111,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="bolder.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/bolder.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -141,7 +141,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="brievenbus.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/brievenbus.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -171,7 +171,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="fietsenkluis.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/fietsenkluis.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -201,7 +201,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="fietsenrek.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/fietsenrek.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -231,7 +231,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="fontein.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/fontein.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -261,7 +261,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="herdenkingsmonument.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/herdenkingsmonument.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -291,7 +291,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="kunstobject.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/kunstobject.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -321,7 +321,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="lichtpunt.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/lichtpunt.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -351,7 +351,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="openbaartoilet.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/openbaartoilet.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -381,7 +381,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="parkeerbeugel.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/parkeerbeugel.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -411,7 +411,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="picknicktafel.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/picknicktafel.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -441,7 +441,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="reclamezuil.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/reclamezuil.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -471,7 +471,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="slagboom.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/slagboom.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -501,7 +501,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="speelvoorziening.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/speelvoorziening.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -531,7 +531,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="telefooncel.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/telefooncel.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -561,7 +561,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="straatmeubilair.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/straatmeubilair.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>25</Size>
@@ -601,7 +601,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="straatmeubilair.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/straatmeubilair.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>10</Size>
@@ -628,7 +628,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="water.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/water.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>10</Size>
@@ -657,7 +657,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="straatmeubilair.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/straatmeubilair.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>6</Size>
@@ -684,7 +684,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="water.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/water.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>6</Size>

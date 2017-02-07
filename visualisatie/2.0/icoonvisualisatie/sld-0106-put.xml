@@ -21,7 +21,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="benzineolieput.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/benzineolieput.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -51,7 +51,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="brandkraanput.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/brandkraanput.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -81,7 +81,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="put.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/put.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -111,7 +111,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="gasput.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/gasput.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -141,7 +141,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="put.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/put.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -171,7 +171,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="kolk.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/kolk.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -201,7 +201,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="waterleidingput.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/waterleidingput.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -231,7 +231,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="put.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/put.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -268,7 +268,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="water.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/water.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>10</Size>
@@ -297,7 +297,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="inrichtingselement.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/inrichtingselement.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>10</Size>
@@ -324,7 +324,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="water.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/water.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>6</Size>
@@ -353,7 +353,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="inrichtingselement.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/inrichtingselement.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>6</Size>

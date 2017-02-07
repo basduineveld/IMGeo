@@ -31,7 +31,7 @@
 						</LabelPlacement>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="sensor.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/sensor.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -60,7 +60,7 @@
 						</LabelPlacement>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="sensor.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/sensor.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>

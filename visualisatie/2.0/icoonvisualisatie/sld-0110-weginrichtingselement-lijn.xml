@@ -53,7 +53,7 @@
 						</LabelPlacement>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="geleideconstructie.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/geleideconstructie.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -153,7 +153,7 @@
 						</LabelPlacement>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="rooster.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/rooster.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -239,7 +239,7 @@
 						</LabelPlacement>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="wildrooster.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/wildrooster.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -291,7 +291,7 @@
 						</LabelPlacement>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="inrichtingselement.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/inrichtingselement.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>25</Size>

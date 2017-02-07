@@ -24,7 +24,7 @@
                             <GraphicStroke>
                                 <Graphic>
                                     <ExternalGraphic>
-                                        <OnlineResource xlink:type="simple" xlink:href="kruinlijn.svg" />
+                                        <OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/kruinlijn.svg" />
                                         <Format>image/svg+xml</Format>
                                     </ExternalGraphic>
                                     <Size>15</Size>
@@ -50,7 +50,7 @@
                             <GraphicStroke>
                                 <Graphic>
                                     <ExternalGraphic>
-                                        <OnlineResource xlink:type="simple" xlink:href="kruinlijn.svg" />
+                                        <OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/kruinlijn.svg" />
                                         <Format>image/svg+xml</Format>
                                     </ExternalGraphic>
                                     <Size>10</Size>

@@ -36,7 +36,7 @@
 						</LabelPlacement>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="geleidewerk.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/geleidewerk.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -88,7 +88,7 @@
 						</LabelPlacement>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="remmingswerk.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/remmingswerk.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -140,7 +140,7 @@
 						</LabelPlacement>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="vuilvang.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/vuilvang.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -192,7 +192,7 @@
 						</LabelPlacement>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="water.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/water.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>25</Size>

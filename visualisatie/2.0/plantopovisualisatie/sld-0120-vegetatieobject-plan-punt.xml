@@ -21,7 +21,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="boom.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/boom.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 						</Graphic>
@@ -51,7 +51,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="vegetatieobject.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/vegetatieobject.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>25</Size>
@@ -77,7 +77,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="vegetatieobject.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/vegetatieobject.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>10</Size>
@@ -92,7 +92,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="vegetatieobject.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/vegetatieobject.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>6</Size>

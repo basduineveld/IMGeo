@@ -21,7 +21,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="kering.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/kering.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -54,7 +54,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="bedrijvigheid.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/bedrijvigheid.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -87,7 +87,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="begraafplaats.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/begraafplaats.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -120,7 +120,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="benzinestation.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/benzinestation.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -153,7 +153,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="bewoning.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/bewoning.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -186,7 +186,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="bushalte.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/bushalte.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -219,7 +219,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="carpoolplaats.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/carpoolplaats.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -252,7 +252,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="functioneelbeheer.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/functioneelbeheer.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -285,7 +285,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="hondenuitlaatplaats.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/hondenuitlaatplaats.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -318,7 +318,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="verkeer_en_vervoer.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/verkeer_en_vervoer.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -351,7 +351,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="waterstaatswerken.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/waterstaatswerken.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -384,7 +384,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="landbouw.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/landbouw.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -417,7 +417,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="maatschappelijkevoorziening.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/maatschappelijkevoorziening.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -450,7 +450,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="natuurenlandschap.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/natuurenlandschap.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -483,7 +483,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="recreatie.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/recreatie.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -516,7 +516,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="bungalowpark.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/bungalowpark.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -549,7 +549,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="camping.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/camping.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -582,7 +582,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="park.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/park.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -615,7 +615,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="speeltuin.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/speeltuin.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -648,7 +648,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="sportterrein.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/sportterrein.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -681,7 +681,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="volkstuin.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/volkstuin.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -714,7 +714,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="verzorgingsplaats.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/verzorgingsplaats.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
@@ -747,7 +747,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="waterbergingsgebied.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/waterbergingsgebied.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>

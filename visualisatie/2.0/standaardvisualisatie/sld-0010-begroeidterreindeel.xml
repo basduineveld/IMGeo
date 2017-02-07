@@ -22,7 +22,7 @@
 							<GraphicFill>
 								<Graphic>
 									<ExternalGraphic>
-										<OnlineResource xlink:type="simple" xlink:href="boomteelt.png" />
+										<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/patronen/boomteelt.png" />
 										<Format>image/png</Format>
 									</ExternalGraphic>
 									<Size>32</Size>
@@ -87,7 +87,7 @@
 							<GraphicFill>
 								<Graphic>
 									<ExternalGraphic>
-										<OnlineResource xlink:type="simple" xlink:href="fruitteelt.png" />
+										<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/patronen/fruitteelt.png" />
 										<Format>image/png</Format>
 									</ExternalGraphic>
 									<Size>32</Size>
@@ -114,7 +114,7 @@
 							<GraphicFill>
 								<Graphic>
 									<ExternalGraphic>
-										<OnlineResource xlink:type="simple" xlink:href="gemengdbos.png" />
+										<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/patronen/gemengdbos.png" />
 										<Format>image/png</Format>
 									</ExternalGraphic>
 									<Size>32</Size>
@@ -255,7 +255,7 @@
 							<GraphicFill>
 								<Graphic>
 									<ExternalGraphic>
-										<OnlineResource xlink:type="simple" xlink:href="loofbos.png" />
+										<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/patronen/loofbos.png" />
 										<Format>image/png</Format>
 									</ExternalGraphic>
 									<Size>32</Size>
@@ -282,7 +282,7 @@
 							<GraphicFill>
 								<Graphic>
 									<ExternalGraphic>
-										<OnlineResource xlink:type="simple" xlink:href="moeras.png" />
+										<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/patronen/moeras.png" />
 										<Format>image/png</Format>
 									</ExternalGraphic>
 									<Size>64</Size>
@@ -309,7 +309,7 @@
 							<GraphicFill>
 								<Graphic>
 									<ExternalGraphic>
-										<OnlineResource xlink:type="simple" xlink:href="naaldbos.png" />
+										<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/patronen/naaldbos.png" />
 										<Format>image/png</Format>
 									</ExternalGraphic>
 									<Size>32</Size>
@@ -336,7 +336,7 @@
 							<GraphicFill>
 								<Graphic>
 									<ExternalGraphic>
-										<OnlineResource xlink:type="simple" xlink:href="rietland.png" />
+										<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/patronen/rietland.png" />
 										<Format>image/png</Format>
 									</ExternalGraphic>
 									<Size>32</Size>
@@ -363,7 +363,7 @@
 							<GraphicFill>
 								<Graphic>
 									<ExternalGraphic>
-										<OnlineResource xlink:type="simple" xlink:href="struiken.png" />
+										<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/patronen/struiken.png" />
 										<Format>image/png</Format>
 									</ExternalGraphic>
 									<Size>32</Size>

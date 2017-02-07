@@ -21,7 +21,7 @@
 					<PointSymbolizer>
 						<Graphic>
 							<ExternalGraphic>
-								<OnlineResource xlink:type="simple" xlink:href="kering.svg"/>
+								<OnlineResource xlink:type="simple" xlink:href="../kaartsymbolen/iconen/kering.svg"/>
 								<Format>image/svg+xml</Format>
 							</ExternalGraphic>
 							<Size>23</Size>
