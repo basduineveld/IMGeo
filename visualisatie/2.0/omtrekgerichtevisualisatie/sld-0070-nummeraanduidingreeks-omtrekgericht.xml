@@ -10,8 +10,7 @@
 			<FeatureTypeStyle>
 				<Rule>
 					<Name>0070-02-02-01</Name>
-					<Title>Nummeraanduidingreeks</Title>
-					<ElseFilter />
+					<Title>Nummeraanduidingsreeks</Title>
 					<MinScaleDenominator>0</MinScaleDenominator>
 					<MaxScaleDenominator>1000</MaxScaleDenominator>
 					<TextSymbolizer>
